@@ -7,7 +7,7 @@
   "hubot-group-alias",
   "hubot-karma-classic",
   "hubot-maps",
-  "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-azure-scripts/brain/azure-blob-brain"
 ]
