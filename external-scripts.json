@@ -1,12 +1,13 @@
 [
   "hubot-diagnostics",
   "hubot-help",
+  "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-group-alias",
   "hubot-karma-classic",
   "hubot-maps",
+  "hubot-redit-brain",
   "hubot-rules",
-  "hubot-shipit",
-  "hubot-azure-scripts/brain/storage-blob-brain"
+  "hubot-shipit"
 ]
