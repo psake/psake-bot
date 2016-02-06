@@ -5,6 +5,7 @@
   "author": "Gary Ewan Park <gep13@gep13.co.uk>",
   "description": "A simple helpful robot for psake",
   "dependencies": {
+    "coffee-script": "^1.10.0",
     "githubot": ">= 0.0.0",
     "hubot": "^2.16.0",
     "hubot-azure-scripts": "^0.1.7",

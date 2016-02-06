@@ -1,7 +1,6 @@
 [
   "hubot-diagnostics",
   "hubot-help",
-  "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-group-alias",
@@ -9,5 +8,5 @@
   "hubot-maps",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-azure-scripts/brain/azure-blob-brain"
+  "hubot-azure-scripts/brain/storage-blob-brain"
 ]
